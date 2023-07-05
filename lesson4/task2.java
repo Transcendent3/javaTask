@@ -30,6 +30,7 @@ public class task2 {
         System.out.println(linkList);
 
         System.out.println(first(linkList));
+        System.out.println(linkList);
     }
 
     public static void enqueue(LinkedList<Integer> list, int num) {
